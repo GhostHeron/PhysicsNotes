@@ -731,4 +731,59 @@ E07 SRQ the electric field
 	b. q(1) negative, q(2) positive
 4. Because the electricity is travelling through a
 smaller point, your finger, rather than spreading
-out over your whole hand.
+out over your whole hand. 
+
+What We Know: Static Electricity
+
+use work (energy) to seperate charges
+
+goal for unit 8: introduction to electronics.
+
+charges can be seperated (like w/ balloon) using work
+potential difference, or voltage, is created when there is a difference in charges between two charges.
+- for example, if there is a high enough voltage between two objects, the air can become conductive to equalize the charges.
+
+**Main idea: seperating charges**
+- seperating charges is like bring them up a hill
+PE=> KE => Work
+this is just one zap, a quick transfer of energy.
+
+*what about a continous circut?*
+we need
+- an unbroken loop/path for the chrage to flow.
+- a source of energy and voltage (potential difference)
+VOLTAGE === POTENTIAL ENERGY
+
+how to describe current (flow)
+the electric current means the "flow of charge"
+
+**Current is measured by how many charges pass by a certain point in a specific amount of time**
+In SI units this is called coulomb's per second, also called Amps, A, Amperes
+
+CURRENT/AMPS EQUATION
+
+I=current (amps)
+q=charge (coulombs)
+t=time (seconds)
+
+$$I=Δq/t $$
+
+In metallic conductors, current is carried by freely moving electrons.
+In solutions, current is carried by ions. 
+pure water doesn't carry electricity, but salts conduct electricity.
+in gases, current is carried by ions and electrons.
+
+in circuit, current is measured  by using an **ammeter**
+the symbol for an ammeter is a line with a circle in it. The circle has a capital "a" inside of it.
+
+Current and potential difference conclusions
+- in order for charge to flow, you must have a potential difference
+- flow of positive charges explanation: positive charges *do not* move. only electrons move. what this means is that as one point loses
+  electrons, that point becomes more positive.
+during this class, the current is only the way electrons move
+
+E07 SRQ Electric potential
+
+1. The first is change in potential electric energy, and the second is just potential energy in the moment.
+
+2. the electric potential energy relies on charge, electric field strength, and displacement from reference point in the field
