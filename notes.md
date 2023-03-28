@@ -1,4 +1,5 @@
-
+note: sorry for poor formatting, this was created before I knew I would convert it to markdown. Future notes should be better formatted :) <br>
+<br>
 >Newton’s first law: 
 if a body is at rest or moving at a constant speed in a straight line,
 it will remain at rest or keep moving in a straight line at constant speed 
@@ -31,69 +32,81 @@ Keplar's law: the orbit of a planet/comet about the sun is an ellipse with the s
 2: A line joining the planet/comet and the sun sweeps out equal areas in equal intervals of time.
 Newton said the net force on a planet must vary inversely with the square of the distance between the planet and the sun.
 
-F=G(m*m(2))/r^2
+$$ F=G(m*m(2))/r^2 $$
+
 r=radius between objects
+
 G is the universal constant
+
 G=6.67259*10^-11
 
 
 Newtonian Physics/Classical Physics
--newtons physics described the world using forces acting on object
--called classical mechanics or newtonian mechanics
--runs into problems when describing
-	-very massive objects (Black holes, etc.)
-	-very small distances (smaller than an atom-plank length)
-	-very high speeds (approaching and at speed of light)
+- newtons physics described the world using forces acting on object
+- called classical mechanics or newtonian mechanics
+- runs into problems when describing
+	- very massive objects (Black holes, etc.)
+	- very small distances (smaller than an atom-plank length)
+	- very high speeds (approaching and at speed of light)
 
 Forces are useful tools, but 'spooky' as a science
--how does gravity pull something at a distance?
+- how does gravity pull something at a distance?
 
 Modern Physics- Einstein
 
 His ideas=
 
 Special and General relativity
+
 Gravity as curved spacetime
-E=mc^2
+
+$$E=mc^2$$
+
 E=energy
+
 m=mass
+
 e=speed of light
 
 Relativity:
 whats the difference between floating and falling?
--depends on inertial frame of reference
--called intertial reference in relativity.
+- depends on inertial frame of reference
+- called intertial reference in relativity.
 
 physics appears the same only if you have the same frame of reference. 
 
 mass curves spacetime, but anything moving follows curve
+
 including light, which does not have mass
 
 Black holes
--very dense mass can create extremely deep gravity "well"
--singularity
--event horizon is what you see
+- very dense mass can create extremely deep gravity "well"
+- singularity
+- event horizon is what you see
 
 Momentum and Impulse
-(apply what we know about forces to analyze new kids of problems)
+
 
 Rearrange Newton's 2nd Law
+
 Forces cause acceleration
+
 F(net)=ma
+
 Acceleration is change in velocity over time
 
 rewrite:
-F(net)*t=m*(change in)v
+$F(net)*t=m*Δv$
 
 Impulse: Force applied over a period of time
-J=F(net)*t
+$J=F(net)*t$
 
 Momentum: inertia in motion
-p=mv
+$p=mv$
 
 What is momentum:
--property of and object related to its mass and velocity
--"mass in motion" or "inertia in motion"
+- property of and object related to its mass and velocity
+- "mass in motion" or "inertia in motion"
 
 Inertia: the ability of something to keep moving.
 
@@ -110,8 +123,8 @@ Impulse: a force applied for a period of time
 
 J=Impulse
 J=F(net)t
-J=(delta)p
-F(net)t=(delta)p
+J=Δp
+F(net)t=Δp
 N*s=kg(m/s)
 
 Understanding check.
@@ -121,7 +134,7 @@ Understanding check.
 
 
 Momentum of a system!
--sum of the momentums of all objects in a the system
+- sum of the momentums of all objects in a the system
 
 equation: P(total)= m1v2+m2v2+m3v3+...
 
@@ -130,8 +143,8 @@ Newton's 3rd Law
 During collision, each object applies equal and opposite forces
 
 J1=-J1
-(delta)p1=-(delta)p2
-(delta)p(total)=0
+Δp1=-Δp2
+Δp(total)=0
 
 Impulse and change in momentum are also equal and opposite.
 these changes cancel, so momentum stays unchanched.
@@ -174,14 +187,14 @@ with energy, we can say objects gain energy as they fall, and because they still
 they bounce.
 
 Kinetic Energy:
--Energy of Motion
--Makes stuff move
+- Energy of Motion
+- Makes stuff move
 
 Potential Energy:
--Stored energy
--Can be converted to kinetic energy
--many different types
--Gravitational PE: energy from being in a gravitiational field.
+- Stored energy
+- Can be converted to kinetic energy
+- many different types
+- Gravitational PE: energy from being in a gravitiational field.
 
 Energy is always measured in JOULES (J)
 Kinetic Energy = 1/2 mv^2
@@ -203,7 +216,7 @@ SRQ Energy
 
 3. The gravitational potential energy is 0.062 J
 
-4.
+4. 
 
 	a. kinetic energy.
 
@@ -394,10 +407,15 @@ Transverse waves: up and down
 	-can travel through space
 	
 c= the speed of light in a vacuum
-speed of light - 2.99*10^8 m/s
+
+speed of light $2.99*10^8 m/s$
+
 speed of light is the fastest anything can go in the universe
+
 light is organized by frequency and wavelengths
+
 light is created by accelerating charges
+
 a photon of light generates an electrical field and a magnetic field
 
 microwaves, xrays, gamma rays, uv, infrared, all light
@@ -520,7 +538,8 @@ LASER LIGHT
 
 monochromatic and coherent: all one color and in phase with each other 
 
-1/p + 1/q = 1/f
+$$^1/_p + ^1/_q = ^1/_f$$
+
 
 p = distance from obj to lens
 q= distance from img to lens
@@ -538,7 +557,7 @@ f= focal length
 5. The distance from the image to the lens is -3.3cm,
 and the image would be .33cm tall.
 
-6. The sum of the focal lengths is greater than
+1. The sum of the focal lengths is greater than
 the length of the telescope.
 
 refraction srq
@@ -575,28 +594,28 @@ Electrical Charges
 - electromagnetic force
 	+ positive and negative charges in an atom
 -field force (similar to gravity) works at a distance
-	+ much stronger than gravity
+  + much stronger than gravity
 
 like charges repel and opposite charges attract
 
 Static electricity
--static (stationary) charge (like an electron with a negative charge)
-	+ doesn't flow,
-	+ build up of different positive or negative charges
+- static (stationary) charge (like an electron with a negative charge)
++ doesn't flow,
++ build up of different positive or negative charges
 
 Electrons can be transferred, creating ions.
 cations are positive, anions are negative.
 
 static electricity can be measured and described like other forces
-	- force arrows show direction of net force
-	- positive and negative symbols show build-up of charge.
+- force arrows show direction of net force	
+- positive and negative symbols show build-up of charge.
 
 static electricity is measured in coulombs - a unit of electrical charge
-	- 1 proton or 1 electron equals 1.602*10^-19
+- 1 proton or 1 electron equals 1.602*10^-19^
 
 small things use the electron volt measure - the electric charge of a single electron
 
-1eV = 1.602*10^-19
+$$ 1eV = 1.602*10^-19 $$
 
 protons + electrons : equal but opposite
 	- protons and electrons have the same amoung of electrical energy
@@ -607,16 +626,17 @@ protons + electrons : equal but opposite
 How to build a static charge ------------------------
 
 there are three main ways to build a static charge:
-	1. charge by friction -contact pulls electrons off one surface and onto another
-	2. charge by contact -touching a charged surface allows excess electrons to move from one object to another
-	3. charge by induction -moving a charged object towards another causes electrons in the non-charged object to move, creating a temp change.
+1. charge by friction -contact pulls electrons off one surface and onto another
+2. charge by contact -touching a charged surface allows excess electrons to move from one object to another
+3. charge by induction -moving a charged object towards another causes electrons in the non-charged object to move, creating a temp change.
 
 Static discharge
 
 large static charges can spontaneously discharge. this is lightning, etc. 
-	-air and most gases are bad conductors of electricity
-	-however, a large static charge can force electrons to jump between atoms
-	-causesd by high levels of EM force
+- air and most gases are bad conductors of electricity
+- however, a large static charge can force electrons to jump between atoms
+- causesd by high levels of EM force
+- 
 potential difference is measured in volts.
 
 Static discharge always acts to re-balance electric charges.
@@ -627,8 +647,11 @@ van de graaf generators build a static charge through friction
 
 Leaf electroscope:
 metal knob goes down to insulating rubber stopper, and two leafs of metal
+
 it starts out neutral, using an negatively charged rod (more electrons)
+
 as the negatively charged rod approaches the electroscope, electrons in the knob move away from the rod and down to the leaves
+
 the knob lost electrons, and leaves gained electrons. 
 
 ELECTROSTATIC FORCE
@@ -637,12 +660,16 @@ static electricity
 Coulomb's Law: charged particles can attract or repel, resulting in changes in motion of the particles.
 In order to have change in motion there must be a force
 the force between two stationary charges is given by coulomb's law
-F(e)=(kq(1)q(2))/r^2
+$$ F_e=(kq_1q_2)/r^2 $$
 
-k= electrostatic constant 8.98*10^9 Nm^2/C^2
-q(1): charge of object 1 in coulombs
-q(2): charge of object 2 in coulombs
+k= electrostatic constant $8.98*10^9 Nm^2/C^2$
+
+$q_1$: charge of object 1 in coulombs
+
+$q_2$: charge of object 2 in coulombs
+
 r= distance between charges 1 and 2
+
 answer in newtons
 
 direction of force is dependent on the charge and a defined set of directions
@@ -653,13 +680,10 @@ as magnitude of charges increases, force increases
 which variable will have the largest effect on force when doubled.
 
 Netwon's 3rd law: for every action force there is an equal and opposite reaction force
-- the force on q(1) is equal to the force on q(2), but in the oppsite direction
+- the force on $q_1$ is equal to the force on $q_2$, but in the oppsite direction
 - this is true even if the charges have different magnitudes!
 
 Electrostatic force is much stronger than the gravitational force.
-"four plus two is six" me 
-"are you sure" kris
-quote
 
 ---------------------------------------------------------------------------------------------------
 ELECTRIC FIELDS
@@ -698,14 +722,17 @@ Potential Difference
 
 	when two charged particles that repel each other are brought near each other, they have potential difference.
 
-	V(AB)=W(AB)/q
+$$ V(AB)=W(AB)/q $$
 
-V= voltage
-W= work (measured in joules)
-q= charge in coulombs
+V= voltage 
 
-A= one particle
-B= the other particle
+W= work (measured in joules) 
+
+q= charge in coulombs 
+
+A= one particle 
+
+B= the other particle 
 
 Electric potential is to electricity as height is to gravity
 	bringing a positive test charge near a positive charge is like bringning it up a hill, from low potential to high
@@ -728,7 +755,7 @@ E07 SRQ the electric field
 2. attached with assignment
 3. 
 	a. The ratio is -0.375 
-	b. q(1) negative, q(2) positive
+	b. $q_1$ negative, $q_2$ positive
 4. Because the electricity is travelling through a
 smaller point, your finger, rather than spreading
 out over your whole hand. 
@@ -785,5 +812,7 @@ during this class, the current is only the way electrons move
 E07 SRQ Electric potential
 
 1. The first is change in potential electric energy, and the second is just potential energy in the moment.
-
 2. the electric potential energy relies on charge, electric field strength, and displacement from reference point in the field
+3. The conditions neccessary are that friction and radiation are not present.
+4. No, there is not a single correct reference point that electric potential energy measurements must be taken from.
+5. 
