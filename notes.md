@@ -809,10 +809,20 @@ Current and potential difference conclusions
   electrons, that point becomes more positive.
 during this class, the current is only the way electrons move
 
+
+equations: <br> Potential difference = - magnitude of the electric field, * displacement
+$$ΔV=-Ed$$
+$$E=ΔV/Δd$$
+ΔV= change in volts (potential difference)<br>
+E= electric field charge <br>
+d= displacement of the charge<br>
+
 E07 SRQ Electric potential
 
 1. The first is change in potential electric energy, and the second is just potential energy in the moment.
 2. the electric potential energy relies on charge, electric field strength, and displacement from reference point in the field
 3. The conditions neccessary are that friction and radiation are not present.
 4. No, there is not a single correct reference point that electric potential energy measurements must be taken from.
-5. 
+5. The change in the electric potential energy of the system changes by 0.0006J because of the shift.
+6. The change in electric potential energy is 7*10^10J
+7. The minimum potential difference must be 1800V.
