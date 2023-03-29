@@ -826,3 +826,25 @@ E07 SRQ Electric potential
 5. The change in the electric potential energy of the system changes by 0.0006J because of the shift.
 6. The change in electric potential energy is 7*10^10J
 7. The minimum potential difference must be 1800V.
+8. 
+
+
+Resistance: as charges travel through a conductor, they lsoe energy through collisions w/ atoms.<br>
+this is the electrical equivilant of friction, called resistance.
+
+>high resistance: rubber, wood, etc.<br>
+>low resistance: wire, metal, etc.<br>
+
+with high resistance circuits, energy is lost to heat.<br>
+even with low resistance, there are collisions.<br>
+
+Resistance is defined as the ratio of potential difference to current.<br>
+Equation:
+$$ R=V/I $$
+
+R = resistance<br>
+V = potential difference<br>
+I = current<br>
+
+The SI unit for resistance is $V/A$, or Ω (Ohms).<br>
+
