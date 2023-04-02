@@ -827,7 +827,10 @@ E07 SRQ Electric potential
 6. The change in electric potential energy is 7*10^10J
 7. The minimum potential difference must be 1800V.
 8. 
-
+	a. The potential difference is 40,000 V.<br>
+	b. The change in electric potential energy is 0.000460288J
+9. The breakdown voltage would be 1,600,000.
+10. 
 
 Resistance: as charges travel through a conductor, they lsoe energy through collisions w/ atoms.<br>
 this is the electrical equivilant of friction, called resistance.
