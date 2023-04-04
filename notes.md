@@ -588,7 +588,7 @@ is not created, it comes from the atom from an external source.
 3. White light would split into different frequencies, while
 laser light stays consistent.
 
-E07 ELECTRICITY
+**E07 ELECTRICITY**
 
 Electrical Charges
 - electromagnetic force
@@ -827,10 +827,11 @@ E07 SRQ Electric potential
 6. The change in electric potential energy is 7*10^10J
 7. The minimum potential difference must be 1800V.
 8. 
-	a. The potential difference is 40,000 V.<br>
+    a. The potential difference is 40,000 V.<br>
 	b. The change in electric potential energy is 0.000460288J
-9. The breakdown voltage would be 1,600,000.
+9.  The breakdown voltage would be 1,600,000.
 10. 
+
 
 Resistance: as charges travel through a conductor, they lsoe energy through collisions w/ atoms.<br>
 this is the electrical equivilant of friction, called resistance.
@@ -851,3 +852,31 @@ I = current<br>
 
 The SI unit for resistance is $V/A$, or Ω (Ohms).<br>
 
+The loop rule: because energy is conserved, energy gained by electrons ends up equal to the energy lost by the electrons.<br>
+Volts gained at battery must be equal to the volts lost at the resistor.
+
+In a series circuit, the voltage can be represented by $V_t = V_1 + V_2 +V_3...$.<br> Total voltage is equal to the sum of the voltages across each resistor. Another thing to note about Series Circuits is that current must be the same for each resistor, or $I_T=I_1=I_2=I_3...$ <br>
+<br> 
+Equivilant reistance is the value of the resistor taht would hsve the same resistance as the total. Adding resistors to the series is the same as lengthening the repeater, so total resistance increases. This is shown by $R_eq=R_1+R_2+R_3...$<br>
+<br>
+Analyzing series circuits practice.
+1. Is it series or parallel?
+
+Use a VIR table![VIR table](/images/VIR%202.jpg) to find Volts, Amps, and Ohms. This is only applicable with series circuits.
+
+Junction rule: all current flowing into a junction must = all current flowing out of a junction.<br>
+**Parallel Circuits**
+
+More than one resistor in multiple paths
+* Electrons may go through any path
+* More electrons travel along path of least resistance
+In a parallel circuit, adding resistors in parallel decreases the overall resistance. This may seem unintuitive at first, but since the resistors are in parallel, adding resistors adds paths for electrons to travel.<br>
+
+In a Parallel Circuit, this equation can be used to determine the current. $$I_T=I_1+I_2+...$$
+Total current depends on total resistance.
+- A benefit of parallel circuits is that when one resistor is disconnected or broken, only that line with the resistor is disconnected. The rest of the energy 
+
+Voltages are equal across resistors. For every path on the circuit, the voltage gain = voltage lost. This is represented by $$V_T=V_1=V_2=...$$
+
+To find total resistance in a Parallel Circuit, use this method. Since $I_T=I_1+I_2+...$ and $I=V/R$, then 
+$V_T/R_T=V_1/R_2=V_2/R_3=...$ This can be simplified to $1/R_T=1/R_1=1_R_2+...$
