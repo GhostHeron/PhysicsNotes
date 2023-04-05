@@ -830,8 +830,9 @@ E07 SRQ Electric potential
     a. The potential difference is 40,000 V.<br>
 	b. The change in electric potential energy is 0.000460288J
 9.  The breakdown voltage would be 1,600,000.
-10. 
-
+10. Electric potential is measured in Volts, and it is the work required to move a charge to a point. Electric potential energy is the potential energy that two charges have between each other. It is measured with Joules.
+11. With the electric potential energy you can calculate the electric potential by finding the distance and charge of the field. 
+12. Because electric potential energy relies on a charge located in one place, but electric potential doesn't rely on a charge at any point
 
 Resistance: as charges travel through a conductor, they lsoe energy through collisions w/ atoms.<br>
 this is the electrical equivilant of friction, called resistance.
