@@ -881,3 +881,20 @@ Voltages are equal across resistors. For every path on the circuit, the voltage 
 
 To find total resistance in a Parallel Circuit, use this method. Since $I_T=I_1+I_2+...$ and $I=V/R$, then 
 $V_T/R_T=V_1/R_2=V_2/R_3=...$ This can be simplified to $1/R_T=1/R_1=1_R_2+...$
+
+
+**Current and Resistance SRQ**
+
+1. Yes, the direction of conventional current can be opposite the direction of the charge movement, especially in the case of electrons which physically flow the opposite direction than the conventional current depicts.
+2.<br>
+	a. The charge is 3/5 Amps.<br>
+	b. $6.2*10^{18}$ electrons pass through the segment in one minute.<br>
+3. 11.2 Amps of current will be drawn.
+4. The wire's resistance is 3.6 Ohms.
+5. The diode does not follow Ohm's Law.
+6. Resistors reduce current and voltage, and diodes force current to flow in only one direction.
+7. The currents will be 1.53 Amps and 2.43 Amps respectively.
+8. The drift speed of an electron is lower than the average speed.
+9. You could include a resistor into the circuit in order to lower the current.
+
+<br>
