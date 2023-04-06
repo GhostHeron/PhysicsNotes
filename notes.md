@@ -880,7 +880,9 @@ Total current depends on total resistance.
 Voltages are equal across resistors. For every path on the circuit, the voltage gain = voltage lost. This is represented by $$V_T=V_1=V_2=...$$
 
 To find total resistance in a Parallel Circuit, use this method. Since $I_T=I_1+I_2+...$ and $I=V/R$, then 
-$V_T/R_T=V_1/R_2=V_2/R_3=...$ This can be simplified to $1/R_T=1/R_1=1_R_2+...$
+$V_T/R_T=V_1/R_2=V_2/R_3=...$ This can be simplified to 
+
+$$1/{R_T}=1/{R_1}+{1/R_2}+...$$
 
 
 **Current and Resistance SRQ**
@@ -898,3 +900,13 @@ $V_T/R_T=V_1/R_2=V_2/R_3=...$ This can be simplified to $1/R_T=1/R_1=1_R_2+...$
 9. You could include a resistor into the circuit in order to lower the current.
 
 <br>
+
+**Hybrid Circuits**
+ > Circuits can actually be both series and parallel.<br>
+ > But how can you solve them??<br>
+ > Step one is to combine resistors in series, and refer to them as a whole. In practice treat them as one resistor.<br>
+ > Then calculate resistance for each parallel track, then treat the whole thing as a parallel circuit.<br>
+
+*Remember that VIR tables are only useful for entire circuits or pathways. They cannot be used to determine the properties of individual resistors.* <br>
+
+you can represent a parallel section of a circuit as $R_P=({1/{R_1}+1/{R_2}})^1$ and a series section as $R_S=R_1+R_2$.
