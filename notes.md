@@ -882,7 +882,7 @@ Voltages are equal across resistors. For every path on the circuit, the voltage 
 To find total resistance in a Parallel Circuit, use this method. Since $I_T=I_1+I_2+...$ and $I=V/R$, then 
 $V_T/R_T=V_1/R_2=V_2/R_3=...$ This can be simplified to 
 
-$$1/{R_T}=1/{R_1}+{1/R_2}+...$$
+$$R_T=(1/{R_1}+{1/R_2}+...)^{-1}$$
 
 
 **Current and Resistance SRQ**
