@@ -910,3 +910,17 @@ $$R_T=(1/{R_1}+{1/R_2}+...)^{-1}$$
 *Remember that VIR tables are only useful for entire circuits or pathways. They cannot be used to determine the properties of individual resistors.* <br>
 
 you can represent a parallel section of a circuit as $R_P=({1/{R_1}+1/{R_2}})^1$ and a series section as $R_S=R_1+R_2$.
+
+Resistors in Series or in Parallel SRQ:
+
+1. In the series circuit.
+2. 
+   a. They all have the same current.
+   b. The 15 Ohm one.
+3. 
+   a. The five Ohm resistor.
+   b. All of them have the same potential difference.
+4. 
+   a. Current is 2 Amps, potential difference is 8V over resistor one, and 8V over resistor two.
+   b. Current is 9 Amps, potential difference is 12v in both resistors.
+5. a, d and e are the brightest bulbs overall, and b and c are equal. This is becuase 
