@@ -925,4 +925,12 @@ Resistors in Series or in Parallel SRQ:
    b. Current is 9 Amps, potential difference is 12v in both resistors.
 5. a, d and e are the brightest bulbs overall, and b and c are equal.
 
-Complex Resistor Combinations:
+Complex Resistors SRQ:
+1. The resistance is 5.35 Ohms.
+2. The current is 3.36 Amps.
+3. The potential difference is 18 Volts.
+4. The resistance is 175 Ohms.
+5. for series, voltage is added but current is the same, for parallel voltage is the same and current is added to create total.
+
+V=IR
+I=V/R
