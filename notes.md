@@ -924,3 +924,5 @@ Resistors in Series or in Parallel SRQ:
    a. Current is 2 Amps, potential difference is 8V over resistor one, and 8V over resistor two.
    b. Current is 9 Amps, potential difference is 12v in both resistors.
 5. a, d and e are the brightest bulbs overall, and b and c are equal.
+
+Complex Resistor Combinations:
