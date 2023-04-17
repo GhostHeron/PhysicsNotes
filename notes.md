@@ -930,7 +930,15 @@ Complex Resistors SRQ:
 2. The current is 3.36 Amps.
 3. The potential difference is 18 Volts.
 4. The resistance is 175 Ohms.
-5. for series, voltage is added but current is the same, for parallel voltage is the same and current is added to create total.
+5. The current in is 0.229 Amps, and potential difference is 3.44 Volts.
+6. The current in is 0.24 Amps, and potential difference is 3.52 Volts.
+7. 
+	a. No, the current is lower than in the microwave because it is in parallel and has higher resistance.
+	b. Yes, the potential difference is equal to the popcorn popper.
+	c. Yes, it is equal to the total current combined.
+	d. The resistance of the circuit is 3.6 Ohms.
+	e. The current is 7.1 Amps.
+
 
 V=IR
 I=V/R
