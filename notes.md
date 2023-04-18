@@ -854,8 +854,9 @@ I = current<br>
 The SI unit for resistance is $V/A$, or Ω (Ohms).<br>
 
 The loop rule: because energy is conserved, energy gained by electrons ends up equal to the energy lost by the electrons.<br>
-Volts gained at battery must be equal to the volts lost at the resistor.
+Volts gained at battery must be equal to the volts lost at the resistor.<br>
 
+**Series Circuits**<br>
 In a series circuit, the voltage can be represented by $V_t = V_1 + V_2 +V_3...$.<br> Total voltage is equal to the sum of the voltages across each resistor. Another thing to note about Series Circuits is that current must be the same for each resistor, or $I_T=I_1=I_2=I_3...$ <br>
 <br> 
 Equivilant reistance is the value of the resistor taht would hsve the same resistance as the total. Adding resistors to the series is the same as lengthening the repeater, so total resistance increases. This is shown by $R_eq=R_1+R_2+R_3...$<br>
