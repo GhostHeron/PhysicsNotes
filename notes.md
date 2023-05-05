@@ -984,3 +984,5 @@ The strength of a solenoid (current carrying coil) can be increased by
 1. inserting a ferromagnetic material into the cetner of the coil to create an electromagnets.
 2. increaseing the current in coil
 3. increasing number of turns in the coil.
+
+build electromagnet, measure how many paperclips, then remove core to create solenoid and measure. then re install the core and add more loops to the wire.
