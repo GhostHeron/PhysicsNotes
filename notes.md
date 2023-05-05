@@ -969,3 +969,18 @@ field line diagram rules:
 1. field lines point out of north and into south
 2. field lines never cross
 3. field lines always form closed loops, but you don't have to draw the full thing. 
+
+**How Does Electricity Affect Magnetic Fields?**<br>
+Magnetic fiels are created around a magnet. The magnetic fields can be drawn as we said before in the field line diagram rules.<br>
+Any wire carrying current produces a magnetic field. <br>
+The Left Hand Rule. Used to determine the direction of magnetic fields.<br>
+*first left hand rule* is used for determining the magnetic field in a straight wire.
+Grab the wire so your thumb points the direction of current flow, your curved fingers indicate the direction of magnetic field. The magnetic field curves the same as your fingers.<br>
+The X symbol means going in to the page in 3 dimensions, and the o means coming out.<br>
+*second left hand rule* is used to determine magnetic field from current on loop of wire.<br>
+Curl fingers in direction of current on the loop, and the thumb points to the north pole of the magnetic field.<br>
+**REmember to use your left hand**
+The strength of a solenoid (current carrying coil) can be increased by
+1. inserting a ferromagnetic material into the cetner of the coil to create an electromagnets.
+2. increaseing the current in coil
+3. increasing number of turns in the coil.
