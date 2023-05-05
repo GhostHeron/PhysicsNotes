@@ -943,3 +943,29 @@ Complex Resistors SRQ:
 
 V=IR
 I=V/R
+
+**E09**
+Magnetism
+
+In 600BCE greek philosophers described the lodestone, stone which attracts iron.<br>
+200BCE: Chinese invent compass.<br>
+A magnet is any object that is ferromagnetic.<br>
+They also have the property of causing iron to become magnetifc. Magnets will point north if put in a low friction environment, because they align with Earth's magnetic field.
+
+Magnetism is caused by particles that are <br>A. Charged <br>and <br>B. Moving.<br>
+Permanent magnets are caused by the *spin of unpaired electrons.* When these electrons have the same spin direction, they create microscopic magnets named domains.<br>
+If the domains are aligned with each other, a larger scale magnet is formed.
+
+Domains can fall out of alignment over time, or from trauma/heat.
+
+Magnetism is a field force- along with electricity, gravity.
+
+Magnetic flux line = 1 Weber (Wb), magnetic flux density (B) is in $Wb/m^2$ / Tesla (T)
+
+field lines come from north, go to south
+lines inside the magnet show the direction of the domains
+
+field line diagram rules:
+1. field lines point out of north and into south
+2. field lines never cross
+3. field lines always form closed loops, but you don't have to draw the full thing. 
