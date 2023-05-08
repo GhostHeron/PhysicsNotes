@@ -986,3 +986,17 @@ The strength of a solenoid (current carrying coil) can be increased by
 3. increasing number of turns in the coil.
 
 build electromagnet, measure how many paperclips, then remove core to create solenoid and measure. then re install the core and add more loops to the wire.
+
+E09 19.2 SRQ<br>
+1. The field is circular around the wire.
+2. Because the magnetic field is much more condensed and uniform inside than outside.
+3. Because not all electrons are aligned with each other like they are in magnetic atoms.
+4. Because the ferromagnetic material combined with the solenoid creates a electromagnet.
+
+E09 19.1 SRQ
+
+1. For a they will attract, for b they will repel, and for c the magnets will attract.
+2. Each piece will have two poles, resulting in 4 total poles.
+3. b accurately decribes the magnetic field.
+4. The magnetometer will read that the Earth's magnetic field is perpendicular to the equator and horizontal to the Earth's surface.
+5. Soft magnetic materials would be better suited to the task.
