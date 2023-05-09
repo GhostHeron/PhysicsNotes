@@ -1000,3 +1000,10 @@ E09 19.1 SRQ
 3. b accurately decribes the magnetic field.
 4. The magnetometer will read that the Earth's magnetic field is perpendicular to the equator and horizontal to the Earth's surface.
 5. Soft magnetic materials would be better suited to the task.
+
+The liquid metal core of the earth creates a magnetic field which protects from charged particles from the sun. 
+
+A motor converts electrical energy into mechanical rotational energy. A coil is wrappen around an iron core to increase magnetic field. This iron is called an armature. The armature has an axle and a commutator which is attached onto the axle. Brushes brush against stationary contacts on the shaft while the electromagnet spins.
+
+AC Current: electrons move back and forth, used by power lines and home outlets. More efficient to deliver to houses.<br>
+DC Current: Electrons flow in one directions, provided by DC. Phones must be charged with DC>
