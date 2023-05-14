@@ -1021,3 +1021,9 @@ E09 20.1 SRQ
 2. For a, as the magnet moves away from the coil, the current in the resistor will go to the right. And for b, when the magnet moves towards the coil the current in the resistor will go left.
 3. The average induced emf over 0.75 seconds is -0.213V.
 4. Because the segments of the string are magnetized and changing their position relative to the coil, they produce current and emf in the coil which is corrospondant to the amount the string moves.
+
+E09 SRQ 20.2
+1. The maximum induced emf is 120.1 V.
+2. The strength of the field is 0.00005.
+3. If a commutator were not used, the motor would not be able to function or generate power.
+4. The orientation to give the maximum mutual inductance would be for them to be parallel
