@@ -1000,3 +1000,10 @@ E09 19.1 SRQ
 3. b accurately decribes the magnetic field.
 4. The magnetometer will read that the Earth's magnetic field is perpendicular to the equator and horizontal to the Earth's surface.
 5. Soft magnetic materials would be better suited to the task.
+
+E09 19.3 SRQ
+1. The magnitude is 0.081 Coulombs.
+2. The direction of the magnetic force is east.
+3. The magnitude is 75 newtons.
+4. The force between them is attractive because the fields go in the same direction.
+5. The direction of the magnetic force is perpendicular to the direction of the current.
