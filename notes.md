@@ -1015,3 +1015,9 @@ E09 19.3 SRQ
 3. The magnitude is 75 newtons.
 4. The force between them is attractive because the fields go in the same direction.
 5. The direction of the magnetic force is perpendicular to the direction of the current.
+
+E09 20.1 SRQ
+1. This can be done through altering the shape of the loop, chaning the angle of the loop relative to the field, or changing the magnitude of the field strength.
+2. For a, as the magnet moves away from the coil, the current in the resistor will go to the right. And for b, when the magnet moves towards the coil the current in the resistor will go left.
+3. The average induced emf over 0.75 seconds is -0.213V.
+4. Because the segments of the string are magnetized and changing their position relative to the coil, they produce current and emf in the coil which is corrospondant to the amount the string moves.
