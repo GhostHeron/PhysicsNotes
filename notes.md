@@ -1049,4 +1049,6 @@ The issue with this model is that electrons would eventually fall into the nucle
 
 Quantum mechanics was pioneered by Erwin Shrodinger and Werner Heisenberg. Shrodigner treated sub-atomic particles as waves, which oscillate with certain frequencies. Certain frequencies need certain length orbits to complete a standing wave. He also wondered about the atomic orbitals, and how electrons transferred.<br>
 
-Heisenberg's strategy was to not make a model, just try to figure it out using only math. He used large matrixes to show electron density, to show where electrons are most likely to be found. This leads to *Heisenberg's uncertainty principle*. It is impossible to detect position and velocity at the same time. 
+Heisenberg's strategy was to not make a model, just try to figure it out using only math. He used large matrixes to show electron density, to show where electrons are most likely to be found. This leads to *Heisenberg's uncertainty principle*. It is impossible to detect position and velocity at the same time. <br>
+
+The most up to date model is the cloud model, based on Heisenberg's ideas, which says that there is no orbit for an electrion, instead, it si a region where electrons are most likely to be, which are called a state. There are probably locations of electrons, shown by clouds, the spaces where electrons are most likely to be. 
