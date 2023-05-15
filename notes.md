@@ -1027,3 +1027,26 @@ E09 SRQ 20.2
 2. The strength of the field is 0.00005.
 3. If a commutator were not used, the motor would not be able to function or generate power.
 4. The orientation to give the maximum mutual inductance would be for them to be parallel
+
+**E010 Atomic Physics and Particle Physics (modern physics)**<br>
+
+Light acts as a particle, meaning it has momentum. The compton effect showed experimentally that photons exibit momentum. A *photon* is the particle of light. Light exibits properties of both particles and waves. Electrons can show diffraction patterns, they have wavelength, so they act like waves. However they also have momentum. <br>
+
+*Wave particle duality* means that a single entity can exibit properties of both wavelengths and particles. Everything in the universe can act as both a particle and a wave.<br>
+
+Louis-Victor deBroglie was a theoretical physicist, created debroglie's wavelength formula in 1924 h=6.63*10^-34 J*s p= Momentum 
+$$Wavelength = h/p$$
+
+All particles have a wavelength, even larger entities. A baseball in motion, for example, has a wavelength, but its just very small. 
+$$wavelength = h/mv = (6.626*10^{-34}J*s)/((0.15kg)(40m/s))=1.1*10^{-34}$$
+This is the equation for the wavelength of a baseball travelliing at 40m/s.<br>
+
+There have been different models of the atom, first the "plum pudding" model by K
+J.J. Thompson, with electrons just floating in the atom. Then the Ernest Rutherford Model with a nucleus, and then Bohr refines that with the energy levels model.<br>
+The Ruthorford experiment showed that the plum pudding model wasn't accurate, because when he shot particles at gold foil they changed directions, bounced off, showing that there was a strong, large center of the nucleus.<br>
+
+The issue with this model is that electrons would eventually fall into the nucleus, because electrons and protons are attracted to each other. Then Bohr appeared and said that if electrons can act like waves, then they could act like that in the atom as well, fixing the Ruthorford model.<br>
+
+Quantum mechanics was pioneered by Erwin Shrodinger and Werner Heisenberg. Shrodigner treated sub-atomic particles as waves, which oscillate with certain frequencies. Certain frequencies need certain length orbits to complete a standing wave. He also wondered about the atomic orbitals, and how electrons transferred.<br>
+
+Heisenberg's strategy was to not make a model, just try to figure it out using only math. He used large matrixes to show electron density, to show where electrons are most likely to be found. This leads to *Heisenberg's uncertainty principle*. It is impossible to detect position and velocity at the same time. 
