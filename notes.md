@@ -864,7 +864,7 @@ Equivilant reistance is the value of the resistor taht would hsve the same resis
 Analyzing series circuits practice.
 1. Is it series or parallel?
 
-Use a VIR table![VIR table](/images/VIR%202.jpg) to find Volts, Amps, and Ohms. This is only applicable with series circuits.
+Use a VIR table ![VIR table](/images/VIR%202.jpg) to find Volts, Amps, and Ohms. This is only applicable with series circuits.
 
 Junction rule: all current flowing into a junction must = all current flowing out of a junction.<br>
 **Parallel Circuits**
@@ -1051,4 +1051,55 @@ Quantum mechanics was pioneered by Erwin Shrodinger and Werner Heisenberg. Shrod
 
 Heisenberg's strategy was to not make a model, just try to figure it out using only math. He used large matrixes to show electron density, to show where electrons are most likely to be found. This leads to *Heisenberg's uncertainty principle*. It is impossible to detect position and velocity at the same time. <br>
 
-The most up to date model is the cloud model, based on Heisenberg's ideas, which says that there is no orbit for an electrion, instead, it si a region where electrons are most likely to be, which are called a state. There are probably locations of electrons, shown by clouds, the spaces where electrons are most likely to be. 
+The most up to date model is the cloud model, based on Heisenberg's ideas, which says that there is no orbit for an electrion, instead, it si a region where electrons are most likely to be, which are called a state. There are probably locations of electrons, shown by clouds, the spaces where electrons are most likely to be.
+
+
+When electrons have higher orbits, atoms have more potential energy. The lowest state is called the ground state. When an atom drops to a lower state it emits a photon. A larger jump down of energy state releases a higher energy photon. Larger jumps also make a higher frequency photon. Too little or too much energy input into the system will not shift the position of the electron. 
+
+Emission Spectra- group of frequencies created from emissions from excited atoms. It appears as many bright lines, which each represent a level of the atom. We can identify a material by it's spectrum, like stars. 
+
+Absorption Spectra- group of frequencies createc by selected absorption bty cooling atoms. Pass photons through a cold gas, and measure which frequencies it blocks, and this shows the frequencies that the atom absorbs.<br>
+
+By treating light as a packet of waves, you get a photon. This solves the ultraviolet catastrophe.<br>
+Some metals emit electrons when light is shone upon them. They are called photoelectrons. Photoeissive metals emit photoelectrons for light over a threshold freqeuncy. This is different for different metals.
+
+
+If photoemissions occurs, amplitude increases, which increases the number of electrons. If you increase frequency, this increases the energy of electrons. 
+
+
+Photon's energy is proportional to their frequency.
+
+Frequency changes color, energy of photons. Amplitude changes number of photons, brightness.
+<br>
+The photoelectric effefct means that with enough energy, electrons can escape.
+
+Energy is 
+$$E_{photon}= h*f = hc/wavelength$$
+
+**Nuclear Physics**
+
+The nucleus is almost the entire mass of an atom. It is made up of two particles, protons and neutrons. Protons are positive, and Neutrons are negative. The nucleus is held together by the Strong Nuclear Force and the Weak Nuclear Force. <br>
+Strong force: 
+- keeps nucleus stable
+- 100x stronger than the electrostatic force
+- only effective at a very short range, the size of a nucleus of an atom.
+- breaking this "bond" releases a lot of energy.
+- 
+Weak Force:
+- responsible for radioactive decay
+	* radioactive decay:
+	Some nuclear configurations are unstable, meaning the neutrons do not seperate the protons enough, leading to nuclear emissions of energy and matter from the nucleus. This is called radiation. Unstable nuclei are called radioactive because they have radioactive decay.
+	* all large nuclei above Polonium are radioactive.
+	* all non-large nuclei can have nuclear isotopes.
+- weaker than strong and electromagnetic forces.
+Nuclear Decay:
+- three types,
+	* Alpha decay, which is two protons and two neutrons
+	* Beta decay, which gives off electrons and changed a neutron to a proton
+	* Gamma decay, which gives off photons
+Unstable nuclei often decay into other unstable nuclei, creating a nuclear decay chain, where nuclei decay through several unstable isotopes before it reaches a stable state. 
+
+
+Nuclear Notation is important.<br>
+
+![nuclear notation](/images/nuclear_notation.png)
