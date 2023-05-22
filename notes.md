@@ -1108,4 +1108,15 @@ Nuclear Notation is important.<br>
 1. He expected the particles to just travel through, but some of them reflected back.
 2. Most of the particles pass through, but some are deflected. This led him to believe that the atom was mostly empty, with a solid dense core.
 3. The electrons could not orbit because they would be pulled into the center. They would also radiate electromagnetic waves, causing them to lose energy.
-4. 
+4. By passing light through gas, you can tell which elements it contains by doing a spectral analysis. The same principle can be applied to stars.
+5. The classical aspect of Bohr is that the electrons still orbits the nucleus, and the quantum aspect is that the electrons jump in between energy levels instead of moving between them.
+6. The transitions between stable orbits in different energy levels show the spectral lines, which can be used to determine the absorption spectra.
+7. Bohr's model is consistent with this observation because it predicts that some wavelengths of light will be be absorbed by the atoms in the atmosphere, raising the energy level of those atoms.
+
+E10 21.3 SRQ Quantum Mechanics
+
+1. Light is considered to be both a wave and a particle, becuase it behaves as both sometimes.
+2. The waves that deBroglie predicted account for the clumping of electrons at certain differences from the nucleus.
+3.  1.00 x 10^4 m/s
+
+wavelength = 
