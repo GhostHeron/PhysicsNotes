@@ -1103,3 +1103,9 @@ Unstable nuclei often decay into other unstable nuclei, creating a nuclear decay
 Nuclear Notation is important.<br>
 
 ![nuclear notation](/images/nuclear_notation.png)
+
+
+1. He expected the particles to just travel through, but some of them reflected back.
+2. Most of the particles pass through, but some are deflected. This led him to believe that the atom was mostly empty, with a solid dense core.
+3. The electrons could not orbit because they would be pulled into the center. They would also radiate electromagnetic waves, causing them to lose energy.
+4. 
