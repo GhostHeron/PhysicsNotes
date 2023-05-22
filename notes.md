@@ -1117,6 +1117,18 @@ E10 21.3 SRQ Quantum Mechanics
 
 1. Light is considered to be both a wave and a particle, becuase it behaves as both sometimes.
 2. The waves that deBroglie predicted account for the clumping of electrons at certain differences from the nucleus.
-3.  1.00 x 10^4 m/s
+3. The wavelength is $7.12846558*10^-32$.
+4. The square is proportional to the probability that you would find an electron at that point.
+5. Because there are "clouds" of probabilities that show where an electron could be, which accurately predict where electrons could be.
+6. The limitation isn't that the instrument isn't imprecise, but by just through the act of measuring information is lost.
 
-wavelength = 
+E10 22.2 SRQ Nuclear Decay
+
+1. Alpha decay emits Helium nuclei when it occurs, Electrons or positrons are emitted during beta decay, and gamma decay causes high energy photons to be emitted.
+2. 
+	a. 228, 88 Radium
+	b. 12, 6 Carbon
+	c. 149, 62 Samarium
+3. 
+	a. The constant is .
+	b. The half life is  years.
