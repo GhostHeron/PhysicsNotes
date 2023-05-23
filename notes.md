@@ -1126,12 +1126,13 @@ E10 22.2 SRQ Nuclear Decay
 
 1. Alpha decay emits Helium nuclei when it occurs, Electrons or positrons are emitted during beta decay, and gamma decay causes high energy photons to be emitted.
 2. 
-	a. 228, 88 Radium
-	b. 12, 6 Carbon
-	c. 149, 62 Samarium
+	a. 228, 88 Radium<br>
+	b. 12, 6 Carbon<br>
+	c. 149, 62 Samarium<br>
 3. 
-	a. The constant is .
-	b. The half life is  years.
+	a. The constant is $1.73\times10^{-10}$.<br>
+	b. The half life is ~127 years.<br>
+4. The site is 1428.75 years old.
 
 
 *Nuclear Equations*
@@ -1149,3 +1150,5 @@ Fission is the splitting of large atoms, resulting in the release of energy. The
 Nuclear power has the highest capacity factor of any energy source. They can run whenever they are needed, and for a long time. Coal is only 40 percent, and nat gas is like 70, while nuclear is over 90. Uranium is a much more efficient power source than coal or nat gas. Nuclear power has very low death rates. Solar is the lowest, but nuclear is second best. Nuclear also has less greenhouse has emissions than solar, the least out of all of them. The half life of a nuclear sample is the time is takes for about half of a nuclear sample to decay. The individual decay of atoms is random.
 <br>**radioactive half lives**
 The shortest half lives are of elements that are created by humans. The shortest naturally occurring half life is Francium, which is 22 minutes. The longest naturally occuring half life is xenon 124, which has a half life of 18 sextillion years. How to measure and detect radation. The Geiger-Muller tube is used in Geiger counters to detect nuclear radioactivity. It is based on a vaccuum tube with a high voltage put through it. Radioactive particles briefly complete electrical circuit, creating a sound from a speaker. Radiation is measured by different units, one is Becquerels (Bq) and Curies (Ci). The unit for how much radioactive energy is being absorbed by obects into things like plants, animals, people, is rads, or radiation absorbed dose. The unit for damage inducing radiation is a Sievert (Sv). On Bananas. They have lots of potassium, which is a radioactive isotope. It releases radiation becuase of the potassium. 
+<br>
+E10 22.3 SRQ Nuclear Reactions<br>
