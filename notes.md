@@ -1189,3 +1189,9 @@ It was believed that protons, neutrons, electrons, were the smallest particles. 
 Quarks are particles with some elementary charges. can be "up" or "down."
 Exist as quarks and anti-quarks, which are pairs. Quarks make up Hadrons, and hadrons are made of three quarks. protons are uud and neutrons are udd (up up down and up down down).<b>
 Mesons are hadrons made up of a quark and its antiquark
+
+Up quarks have a charge of $\frac{2}{3}$, and down quarks have a charge of $-\frac{1}{3}$
+
+<br> ANTIMATTER: antimatter particles are particles which have opposite charges as their normal counterparts. Matter/ antimatter interaction causes annihilation. Annihilation is when a anti-particle interacts with normal matter. It then converts into pure energy. 
+
+Collisions between a particle and an antiparticle result in transformation to photons or lighter particle-antiparticle pairs. Conservation of charge is still true. The collision of an electron and a positron anti-electron results in gamma ray production. Two electrons couldn't annihilate each other because of the conservation of charge. There would still be two negative charges that couldn't just disappear.
