@@ -1152,3 +1152,40 @@ Nuclear power has the highest capacity factor of any energy source. They can run
 The shortest half lives are of elements that are created by humans. The shortest naturally occurring half life is Francium, which is 22 minutes. The longest naturally occuring half life is xenon 124, which has a half life of 18 sextillion years. How to measure and detect radation. The Geiger-Muller tube is used in Geiger counters to detect nuclear radioactivity. It is based on a vaccuum tube with a high voltage put through it. Radioactive particles briefly complete electrical circuit, creating a sound from a speaker. Radiation is measured by different units, one is Becquerels (Bq) and Curies (Ci). The unit for how much radioactive energy is being absorbed by obects into things like plants, animals, people, is rads, or radiation absorbed dose. The unit for damage inducing radiation is a Sievert (Sv). On Bananas. They have lots of potassium, which is a radioactive isotope. It releases radiation becuase of the potassium. 
 <br>
 E10 22.3 SRQ Nuclear Reactions<br>
+
+1. Fission splits atoms, while fusion joins them. Both processes release energy.
+2. Nuclear fission reactors use the neutrons released from splitting atoms to split more atoms, which release more neutrons, thus creating a chain reaction.
+3. 
+	a. Enrichment changes uranium to a higher density of usable fuel. The enriched uranium sustains a chain reaction becuase the reactive uranium atoms are closer together.
+	b. Three neutrons are released.
+4. Fusion reactors do not create waste that is as dangerous as fission reactors, and they are much safer despite fission already being very safe. A nuclear fusion reaction would produce just hydrogen. Fusion releases a huge amount of energy, and the fuel could be obtained from just water. <br>
+
+E10 22.4 SRQ Particle Physics
+1. The strong interaction binds neutrons and protons into nuclei. It is the strongest fundamental interaction. Electromagnetic interaction is weaker, and is the reason unlike charges attract and like charges attract. It is the interaction of atoms and molecules. The weak interaction is very week. It is involved with beta type decay. Gravitational interaction is long-range, and affects many particles at once.
+2. Hadrons include both baryons and mesons, while Leptons are thought to be elementary particles like electrons and neutrinos. Baryons are protons and neutrons made of three quarks, while mesons are made of a quark and its anti-quark, so two.
+3. 
+
+**The Standard Model of Physics**
+
+Particles in the standard model video:
+
+1. Higgs Boson
+2. Fermion- Mattery particle. THey cannot be put together in the same spot in space
+	- Up Quark, Down Quark
+	- These make up protons and neutrons, as well as electrons.
+3. Force particle. They CAN be put together in the same area in space.
+4. Neutrino- very light, do not interact very well with other particles.
+5. Muon and Tau. The muon and tau are heavier than typical electrons
+6. There are charm and top, which are heavier as well than normal quarks
+7. There are also Muon Neutrinos and Tau neutrinos.
+8. Bosons are force carrying particles, there are three-
+	- Electromagnetic boson, called a photon
+	- Gluon is the boson for strong force
+	- W and Z bosons are particles for weak force
+9. The Higgs Boson gives other particles mass.
+
+It was believed that protons, neutrons, electrons, were the smallest particles. There are actually smaller particlse. Baryons are protons and neutrons, which are made up of three quarks. Mesons are made up of only two quarks. Bosons are massless particles which travel at the speed of light.<br>
+
+Quarks are particles with some elementary charges. can be "up" or "down."
+Exist as quarks and anti-quarks, which are pairs. Quarks make up Hadrons, and hadrons are made of three quarks. protons are uud and neutrons are udd (up up down and up down down).<b>
+Mesons are hadrons made up of a quark and its antiquark
