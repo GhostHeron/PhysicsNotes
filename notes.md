@@ -1163,7 +1163,7 @@ E10 22.3 SRQ Nuclear Reactions<br>
 E10 22.4 SRQ Particle Physics
 1. The strong interaction binds neutrons and protons into nuclei. It is the strongest fundamental interaction. Electromagnetic interaction is weaker, and is the reason unlike charges attract and like charges attract. It is the interaction of atoms and molecules. The weak interaction is very week. It is involved with beta type decay. Gravitational interaction is long-range, and affects many particles at once.
 2. Hadrons include both baryons and mesons, while Leptons are thought to be elementary particles like electrons and neutrinos. Baryons are protons and neutrons made of three quarks, while mesons are made of a quark and its anti-quark, so two.
-3. 
+3. The unified force was at the beginning, then the two forces, and when the three forces came there was also Quarks and Leptons created. After that, in the four forces stage, protons and neutrons began to be able to form, then nuclei, then atoms. This all happened within far less than a second at the big bang.
 
 **The Standard Model of Physics**
 
@@ -1187,7 +1187,7 @@ Particles in the standard model video:
 It was believed that protons, neutrons, electrons, were the smallest particles. There are actually smaller particlse. Baryons are protons and neutrons, which are made up of three quarks. Mesons are made up of only two quarks. Bosons are massless particles which travel at the speed of light.<br>
 
 Quarks are particles with some elementary charges. can be "up" or "down."
-Exist as quarks and anti-quarks, which are pairs. Quarks make up Hadrons, and hadrons are made of three quarks. protons are uud and neutrons are udd (up up down and up down down).<b>
+Exist as quarks and anti-quarks, which are pairs. Quarks make up Hadrons, and hadrons are made of three quarks. protons are uud and neutrons are udd (up up down and up down down).
 Mesons are hadrons made up of a quark and its antiquark
 
 Up quarks have a charge of $\frac{2}{3}$, and down quarks have a charge of $-\frac{1}{3}$
@@ -1195,3 +1195,14 @@ Up quarks have a charge of $\frac{2}{3}$, and down quarks have a charge of $-\fr
 <br> ANTIMATTER: antimatter particles are particles which have opposite charges as their normal counterparts. Matter/ antimatter interaction causes annihilation. Annihilation is when a anti-particle interacts with normal matter. It then converts into pure energy. 
 
 Collisions between a particle and an antiparticle result in transformation to photons or lighter particle-antiparticle pairs. Conservation of charge is still true. The collision of an electron and a positron anti-electron results in gamma ray production. Two electrons couldn't annihilate each other because of the conservation of charge. There would still be two negative charges that couldn't just disappear.
+particle accelerators can be used to accelerate streams of matter very quickly (almost the speed of light). <br>
+
+Quantum field theory says that particles are just waves in a 2d field.
+
+
+
+Summary of the video "Why Did Time Start Going Forwards?" <br>
+
+St. Augustine of Hippo is thinking about time. He wrote a large body of work that has survived to the modern period, giving a glimpse in to the ideas of the time. He considers why time travels in the direction that it does. Why doesn't the sun rise instead of set at the end of the day? <br>
+In Manchester, clock time needed to be unified and standardized instead of set on the sun individually by each town and city. The issue is that trains needed to be synchronized on a uniform system to facilitate the transportation of goods and people effectively. This was the first time that time was standarized. This standardization led to questions about time. Carneau wrote that heat always flows from a warmer body to a warmer one. This leads to ideas about entropy. All systems move in one directions, decreasing the free energy of this system. Entropy is a way of measuring the amount of disorder in a system. Entropy tends to increase. It always increases overall. Entropy causes time to be percieved. Because things change, because of entropy, things change and time goes on. Arthur Eddington was a scientist who studied entropy and gravity. He saw time as an arrow, which always travels in one direction because of entropy. Travelling faster than the speed of light would break the arrow of time. The idea of the arrow of time only dictates direction, not speed. The speed at which one experiences time can be different from everyone else. Pierre Simon thought about a individual who could know the exact position and time that each atom in the universe inhabited, who could then figure out everything that would happen. However, quantum theory rejects this idea, because of the uncertainty of it. There is another idea that time is measured in regards to the big bang. Ludwig Boltsmann studied atoms. He developed statistical mechanics to study entropy. Boltzmann thought of time as a pool game, where particles always become more disordered, and becoming more ordered is very very unlikely, however not impossible.<br>
+It is possible to calculate the entropy of the universe with the Bolztmann constant. The entropy of the universe has increased from the starting point. 
